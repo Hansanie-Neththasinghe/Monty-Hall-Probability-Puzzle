@@ -1,0 +1,16 @@
+.win-result {
+    background-color: #f1c378;
+  }
+  
+  .image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    height: 100vh; 
+  }
+  
+  .centered-image {
+    display: block; 
+    max-width: 100%;
+  }
+  
